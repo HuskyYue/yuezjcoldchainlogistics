@@ -1,0 +1,2 @@
+Application Version: ${coldchainlogistics.version}
+Spring Boot Version: ${spring-boot.version}
